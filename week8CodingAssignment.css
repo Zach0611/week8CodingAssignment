@@ -1,0 +1,83 @@
+body {
+    background-color: aquamarine;
+    
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:xx-large ;
+    font-weight:bold;
+    text-align: center;
+    
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight:normal;
+    text-align:center;
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight:normal;
+    text-align:center;
+}
+p {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:medium;
+    font-weight:normal;
+    text-align:center;
+}
+div {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:large;
+    font-weight:normal;
+    text-align: center;
+    padding:4px;
+}
+table {
+    width:100%;
+}
+table, th, td {
+    border: 3px solid darkblue;
+    font-weight: bold;
+    border-collapse: collapse;
+    
+}
+th {
+    background-color: green;
+    padding-top:12px;
+    padding-bottom:12px;
+}
+    
+td{
+    background-color: papayawhip;
+    text-align: center;
+    padding-top:12px;
+    padding-bottom:12px;
+}
+ul {
+    border-style: solid;
+    border-width:medium;
+    border-color:darkblue;
+    list-style-type: none;
+    align-items:center;
+}
+li {
+    align-items:center;
+    padding:12px;
+}
+.red-text {
+    color:red;
+}
+.linkpages-text {
+    color: blue
+    
+    
+}
+a:hover {
+    color: yellow;
+}
+form{
+    color:green;
+    background-color: linen;
+}
